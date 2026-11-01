@@ -1,0 +1,4 @@
+cache=1,lat=120
+cache=0,lat=260
+cache=1,lat=133
+cache=0,lat=255
